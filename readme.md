@@ -1,1 +1,2 @@
-hi
+Transfer model: mobileNet
+library:tfds
